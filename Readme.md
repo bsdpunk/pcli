@@ -1,4 +1,4 @@
-# The Command Line Pornography Toolset
+# The Command Line P Toolset
 
 ### Everything has to be easily automatable
 
